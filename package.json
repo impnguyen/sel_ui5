@@ -13,5 +13,9 @@
   "license": "ISC",
   "dependencies": {
     "webdriverio": "^4.12.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "wdio-mocha-framework": "^0.5.13"
   }
 }
